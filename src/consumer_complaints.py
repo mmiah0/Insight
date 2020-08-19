@@ -1,4 +1,4 @@
-
+#!/bin/bash
 import csv
 from datetime import datetime
 import collections
