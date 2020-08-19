@@ -5,7 +5,7 @@ import collections
 import sys
 
 input_fname, output_fname = sys.argv[1:]
-f=open('input_fname', 'r')
+f=open(input_fname, 'r')
 reader=csv.reader(f)
 
 header = next(reader)
@@ -37,7 +37,7 @@ for key,value in sorted(d1.items()):
         print key, k, v
         out.append((key,k,v))
             
-with open('output_fname','w') as f:
+with open(output_fname,'w') as f:
   writer = csv.writer(f)
   for val in out:
     f.write(str(val).strip("()")+'\n')
