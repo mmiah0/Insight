@@ -1,1 +1,1 @@
-# This directory includes the directory and files required to solve the Data Engineering coding challenge.
+# This directory includes files required to solve the Data Engineering coding challenge. Directories and files are organized as outlined in the instructions.
