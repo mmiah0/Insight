@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# This directory includes files required to solve the Data Engineering coding challenge. Directories and files are organized as outlined in the instructions.
+# Outputs are performed for the first three columns due to to time constraint. Also unit tests are not performed yet.
 =======
 # Insight
 Data engineering coding challenge
