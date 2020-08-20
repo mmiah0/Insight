@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Outputs are performed for the first three columns due to to time constraint. Also unit tests are not performed yet.
+# Outputs are performed for the first three columns due to time constraint. Also unit tests are not performed yet.
 =======
 # Insight
 Data engineering coding challenge
